@@ -8,3 +8,16 @@ sobre o meu desempenho de aprendizagem.
 - Textos
 - Arrays
 
+2. Básico da estrutura
+- Condicionais
+- Laços de Repetição
+- Funções
+- Eventos
+
+3. Objetos
+- O básico dos objetos
+- Protótipos
+- Herança
+- JSON
+
+
