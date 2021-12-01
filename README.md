@@ -54,4 +54,6 @@ Na linguagem c# seu codígo é conhecido como codigo gerenciavel, isso porque o 
 - confirmada
 > O bloco de memória é atribuído para armazenamento físico.
 
+Nesse link existe um ótimo artigo explicando sobre a [diferença ente memória stack e memória heap](https://www.c-sharpcorner.com/article/stack-vs-heap-memory-c-sharp/) 
+
 
