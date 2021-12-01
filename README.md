@@ -29,6 +29,8 @@ sobre o meu desempenho de aprendizagem.
 - Modelo de concorrência e event loop
 
 # C# 
- 1. Memória
+## Memória
+1. Conceitos Básicos
+
 
 
