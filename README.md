@@ -5,10 +5,10 @@ sobre o meu desempenho de aprendizagem.
 ## Core
 1. Básico
  - [x] Variáveis
- - Números e operadores
- - Textos
- - Arrays
-2. Estrutura
+ - [x] Números e operadores
+ - [x] Textos
+ - [x] Arrays
+2.  Estrutura
  - Condicionais
  - Laços de Repetição
  - Funções
