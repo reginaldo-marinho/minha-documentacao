@@ -4,3 +4,7 @@ sobre o meu desempenho de aprendizagem.
 # Javascript
 1. Básico
 - Variáveis
+- Números e operadores
+- Textos
+- Arrays
+
