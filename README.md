@@ -28,5 +28,7 @@ sobre o meu desempenho de aprendizagem.
 - Gerenciamento de Memória
 - Modelo de concorrência e event loop
 
+# C# 
+ 1. Memória
 
 
