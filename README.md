@@ -36,11 +36,11 @@ Na linguagem c# seu codígo é conhecido como codigo gerenciavel, isso porque o 
 - O proprio CLR gerencia a memoria do codigo compilado e executado
 - Quando um  processo é executado, o runtime reserva um espaço na memória
 - O espaço reservado pelo CLR é chamado de HEAP
-- tipos de refercias são alocados no HEAP
+- tipos de referencias são alocados no HEAP
 
 #### Liberação de Memoria
- O coletor de lixo libera as memorias dos objetos que não estão sendo mais utilizadas pelo aplicativo, isso é feito com base nas raises do aplicativo.
- 1.raizes do Aplicativo
+  coletor de lixo libera as memorias dos objetos que não estão sendo mais utilizadas pelo aplicativo, isso é feito com base nas raises do aplicativo.
+ Raizes do Aplicativo são:
  - campos estaticos
  - varaveis locais
  - parametros na pilha de um thread
