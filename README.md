@@ -9,10 +9,10 @@ sobre o meu desempenho de aprendizagem.
  - [x] Textos
  - [x] Arrays
 2.  Estrutura
- - Condicionais
- - Laços de Repetição
- - Funções
- - Eventos
+ - [x] Condicionais
+ - [x] Laços de Repetição
+ - [x] Funções
+ - [x] Eventos
 3. Objetos
  - O básico dos objetos
  - Protótipos
