@@ -39,7 +39,13 @@ Na linguagem c# seu codígo é conhecido como codigo gerenciavel, isso porque o 
 - tipos de refercias são alocados no HEAP
 
 #### Liberação de Memoria
-- o coletor de lixo libera as memorias dos objetos que não estão sendo mais utilizadas pelo aplicativo
+ O coletor de lixo libera as memorias dos objetos que não estão sendo mais utilizadas pelo aplicativo, isso é feito com base nas raises do aplicativo.
+ 1.raizes do Aplicativo
+ - campos estaticos
+ - varaveis locais
+ - parametros na pilha de um thread
+ - registros da CPU
+ 
 1. Estados de Memória
 - gratuita
 > O bloco de memória não contém referências e ele está disponível para alocação 
