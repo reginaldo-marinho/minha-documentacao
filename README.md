@@ -21,6 +21,12 @@ sobre o meu desempenho de aprendizagem.
 ## Intermediário
 
 ## Avançado
-1. Herança
-2. Protótipos
+- Herança
+- Protótipos
+- Modo Estrito
+- Vetores Tipados
+- Gerenciamento de Memória
+- Modelo de concorrência e event loop
+
+
 
