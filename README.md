@@ -4,7 +4,7 @@ sobre o meu desempenho de aprendizagem.
 # Javascript 
 ## Core
 1. Básico
- - Variáveis
+ - [x] Variáveis
  - Números e operadores
  - Textos
  - Arrays
