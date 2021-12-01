@@ -33,6 +33,8 @@ sobre o meu desempenho profissional.
 ### Conceitos Básicos
 Na linguagem c# seu codígo é conhecido como codigo gerenciavel, isso porque o proprio COMMON Language Runtime ou CLR gerencia o codigo, as linguagem c/c++ não contém um tipo de CLR, dessa forma quem será responsavel pelo gerenciamento desse codigo, em especial, o gerenciamento de memoria, será o proprio desenvolvedor.
 - O proprio CLR gerencia a memoria do codigo compilado e executado
+- Quando um  processo é executado, o runtime reserva um espaço na memória
+- 
 1. Estados de Memória
 - gratuita
 > O bloco de memória não contém referências e ele está disponível para alocação 
