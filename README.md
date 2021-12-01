@@ -1,7 +1,8 @@
 Essa documentação é destinada a minha análise pessoal
 sobre o meu desempenho de aprendizagem.
 
-# Javascript
+# Javascript 
+## Básico
 1. Básico
  - Variáveis
  - Números e operadores
@@ -17,3 +18,5 @@ sobre o meu desempenho de aprendizagem.
  - Protótipos
  - Herança
  - JSON
+## Intermediário
+
