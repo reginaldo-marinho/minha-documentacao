@@ -2,13 +2,13 @@ Essa documentação é destinada a minha análise pessoal
 sobre o meu desempenho de aprendizagem.
 
 # Javascript 
-## Básico
+## Core
 1. Básico
  - Variáveis
  - Números e operadores
  - Textos
  - Arrays
-2. Básico da estrutura
+2. Estrutura
  - Condicionais
  - Laços de Repetição
  - Funções
@@ -19,4 +19,8 @@ sobre o meu desempenho de aprendizagem.
  - Herança
  - JSON
 ## Intermediário
+
+## Avançado
+1. Herança
+2. Protótipos
 
