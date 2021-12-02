@@ -43,7 +43,14 @@ sobre o meu desempenho profissional.
 - interface
 - classes abstratas
 - membros da classe
-
+4. Áreas da linguagem
+- matrizes
+- coleções
+- LINQ
+- Delegates
+- Expressões labda
+- Métodos sincronos e assincronos
+- Atributos
 
 ## Memória
 ### Conceitos Básicos
