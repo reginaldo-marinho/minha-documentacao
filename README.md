@@ -57,3 +57,12 @@ Na linguagem c# seu codígo é conhecido como codigo gerenciavel, isso porque o 
 Nesse link existe um ótimo artigo explicando sobre a [diferença ente memória stack e memória heap](https://www.c-sharpcorner.com/article/stack-vs-heap-memory-c-sharp/) 
 
 
+# Arvores Binarias
+### Resumão
+Arvores binarias é um conjunto de dados que são inseridos de forma organizada, de modo que quando os mesmos são obtidos, o tempo de processamento diminui, ja que o dado desejado é encontrado de uma forma mais rapida.
+
+### Árvore Binaria de busca
+Arvores binarias é um conjunto de scripts que separa um conjunto de dados "Ordenado" em duas partes, sendo que o centro é usado para obter o valor entre as duas partes divididas.
+
+![Exemplo de Arvore Binaria](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFmlprp5ozA302T9Vndm0olGuLKu1MefaPe5_t7PmmiHrZEdCkkMojBOzoMmS_9fvWDys&usqp=CAU)
+
