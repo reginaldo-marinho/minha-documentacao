@@ -110,7 +110,13 @@ fim
 
 
 # SQL Server
-
+1. O básico
+- Os mais básicos do sql server são:
+ Create, alter, Drop e Select para operações ligadas a tabelas
+Views, procedures, índices, PKS, FKS, funções ...
+- Create, Update, Delete, Read são comandos para registros
+Contidos em tabelas, que podem ser tando tabelas criadas  pelo usuário ou comandos contidos
+nos esquemas do próprio sql: sys, dbo...
 
 # Crystal Reports
 
