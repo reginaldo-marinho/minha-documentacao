@@ -90,6 +90,7 @@ fim
 
 # Crystal Reports
 
+# Angular
 
 # Livros Lidos
 ## O gerente Minuto
@@ -99,5 +100,7 @@ fim
 ## Gerencimanento de Redes Com windowns XP
 
 ## Refatoração
+
+## Montagem de Micros
 
 ## Arquitetura Limpa
