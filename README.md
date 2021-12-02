@@ -89,3 +89,15 @@ fim
 
 
 # Crystal Reports
+
+
+# Livros Lidos
+## O gerente Minuto
+
+## Guia Pratico do SCRUM
+
+## Gerencimanento de Redes Com windowns XP
+
+## Refatoração
+
+## Arquitetura Limpa
