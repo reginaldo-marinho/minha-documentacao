@@ -51,6 +51,7 @@ sobre o meu desempenho profissional.
 - Expressões labda
 - Métodos sincronos e assincronos
 - Atributos
+5. Tratamentos de erros
 
 ## Memória
 ### Conceitos Básicos
