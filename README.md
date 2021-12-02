@@ -126,7 +126,8 @@ Para se começar a trabalhar com crystal devemos:
 - Saber criar joins entre as tabelas
 - entender a estrutura do documento: header, detail, foother, groups
 - conhecer campos especiais: data de impressão, número de página, entre outros.
-- Fórmulas: Aqui é onde tratamos campos
+- Fórmulas: Aqui é onde tratamos campos que precisão de algum tipo de 
+Formatação, condição, interação...
 # Angular
 
 # Livros Lidos
