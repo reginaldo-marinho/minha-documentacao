@@ -119,7 +119,14 @@ Contidos em tabelas, que podem ser tando tabelas criadas  pelo usuário ou coman
 nos esquemas do próprio sql: sys, dbo...
 
 # Crystal Reports
-
+Não vejo muitas empresas proucupadas com quem sabe trabalhar com Crystal reports,
+Na verdade não lembro disso ser um dos requisitos  sites como Catho, Programathor, outros sites de buscas de emprego.
+Para se começar a trabalhar com crystal devemos:
+- saber criar uma conexão com o banco de dados
+- Saber criar joins entre as tabelas
+- entender a estrutura do documento: header, detail, foother, groups
+- conhecer campos especiais: data de impressão, número de página, entre outros.
+- Fórmulas: Aqui é onde tratamos campos
 # Angular
 
 # Livros Lidos
