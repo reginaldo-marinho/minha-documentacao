@@ -68,5 +68,5 @@ A logica usada para buscar um elemento dentro de uma arvore é:
 - EI = O elemento do nó é igual ao procurado?
 - DI = Se sim, vá para a direita
 - ES = Se não, vá para a esquerda
-![Exemplo de Arvore Binaria](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFmlprp5ozA302T9Vndm0olGuLKu1MefaPe5_t7PmmiHrZEdCkkMojBOzoMmS_9fvWDys&usqp=CAU)
+> ![Exemplo de Arvore Binaria](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFmlprp5ozA302T9Vndm0olGuLKu1MefaPe5_t7PmmiHrZEdCkkMojBOzoMmS_9fvWDys&usqp=CAU)
 
