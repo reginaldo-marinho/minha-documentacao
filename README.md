@@ -29,6 +29,22 @@ sobre o meu desempenho profissional.
 - Modelo de concorrência e event loop
 
 # C# 
+## core
+1. Tipos de dados
+- por valor
+- por referência
+2. Estrutura
+- Namespaces
+- programas
+- Tipos
+- Assemblies
+3. Orientação a objetos
+- classe
+- interface
+- classes abstratas
+- membros da classe
+
+
 ## Memória
 ### Conceitos Básicos
 #### Alocação de Memoria
