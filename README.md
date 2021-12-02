@@ -63,6 +63,7 @@ Arvores binarias é um conjunto de dados que são inseridos de forma organizada,
 
 ### Árvore Binaria de busca
 Arvores binarias é um conjunto de scripts que separa um conjunto de dados "Ordenado" em duas partes, sendo que o centro é usado para obter o valor entre as duas partes divididas.
+No caso abaixo, se fomos buscar o numero 4, devemos fazer operações logicas entre o ramo esquedo e o direiro, a partir da raiz da arvore, que nesse caso é o 8, vejamos:
 
 ![Exemplo de Arvore Binaria](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFmlprp5ozA302T9Vndm0olGuLKu1MefaPe5_t7PmmiHrZEdCkkMojBOzoMmS_9fvWDys&usqp=CAU)
 
