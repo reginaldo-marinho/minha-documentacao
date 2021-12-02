@@ -68,7 +68,9 @@ A logica usada para buscar um elemento dentro de uma arvore é:
 - EI = O elemento do nó é igual ao procurado?
 - DI = Se sim, vá para a direita
 - ES = Se não, vá para a esquerda
->chagando ao elemento  4 
+
+chagando ao elemento  4 
+```
 inicio 
 8 == 4 {false}
 8 > 4 {ES}
@@ -78,5 +80,7 @@ inicio
 6 > 4 {ES}
 4 == 4 {true}
 fim
+
+```
 > ![Exemplo de Arvore Binaria](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFmlprp5ozA302T9Vndm0olGuLKu1MefaPe5_t7PmmiHrZEdCkkMojBOzoMmS_9fvWDys&usqp=CAU)
 
