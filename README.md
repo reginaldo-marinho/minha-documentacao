@@ -109,6 +109,9 @@ fim
 > ![Exemplo de Arvore Binaria](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFmlprp5ozA302T9Vndm0olGuLKu1MefaPe5_t7PmmiHrZEdCkkMojBOzoMmS_9fvWDys&usqp=CAU)
 
 # Compressão de Dados
+É a arte de reduzir o tamanho de um arquivo de acordo com o que ele tem, exemplo:
+Se eu tenho um arquivo "AAAAAA", eu posso represtalo usando  GA, que é uma redução de mais de 60% no disco.
+
 
 # SQL Server
 1. O básico
