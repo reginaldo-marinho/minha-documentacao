@@ -159,6 +159,6 @@ Para criar minha aplicação, preciso saber sobre:
 
 ## Refatoração
 Quando penso em refatoração, eu penso na palavra "TEMPO", como no meu trabalho a grande parte do codigo que presto manutenção é em uma linguagem estruturada... eu 
-fico P da vida no modo  em que aquelas rotinas são contruidas, é If, Else, for, variavel global, nomes reduzidos para todos os lados, sem contar nas funções que chegão as ter mais de 1000, 2000 ou 3000. É uma loucura entender aqueles processos, o tempo perdido para enteder em quais locais preciso fazer tais customizações é muito grande.
+fico P da vida no modo  em que aquelas rotinas são contruidas, é If, Else, for, variavel global, nomes reduzidos para todos os lados, sem contar nas funções que chegam as ter mais de 1000, 2000 ou 3000. É uma loucura entender aqueles processos, o tempo perdido para enteder em quais locais preciso fazer tais customizações é muito grande.
 Se lá existisse um pouco dos principios de refatorações, grande parte do tempo que era perdido para entender o codigo poderia ser usado para aprender algo mais importante ou até mesmo refatorar o que já existe, seria bom se esse sistema não tivesse regras relacionadas a codigo "standard".
 O legar de ter essa visão sobre o codigo é quando começo a olhar para esse codigo e pensar em como eu podeia melhora-lo usando tecnicas desse livro. Como nesse trecho é dedicado a minha visão sobre o que vou aprendendo, nada mais justo que eu citar algun pontos importantes que fizeram grande diferença no meu processo de aprendizagem:
