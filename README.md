@@ -140,13 +140,13 @@ Para criar minha aplicação, preciso saber sobre:
 - Aqui, é o local onde será possível importar componentes, serviços...
 3. Diretivas
 - Aqui manipulamos comportamentos do componente com instruções com : if, else, foreach...
-3. Rotas.
+4. Rotas.
 - nesse tópico, é entendido como é criado a estrutura de rotas de uma aplicação angular
-4. HTTP
+5. HTTP
 - Como o angular é front-end, aplicação backend devem ser chamadas através do consumo de API's, essas chamadas são feitas através de solicitações HTTP
-5. Pasta global
+6. Pasta global
 - aqui é colocado todos componentes e recursos que fazem parte de um contexto global, exemplo: um component NAVBAR
-6. Pasta Shared
+7. Pasta Shared
 -Aqui é mais simples de entender, como o próprio nome explica, aqui fica todos componentes e serviços que são compartilhados por componentes da aplicação, exemplo: um serviço de validação de caracteres, um component loader...
 
 
