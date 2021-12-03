@@ -110,7 +110,7 @@ fim
 
 # Compressão de Dados
 É a arte de reduzir o tamanho de um arquivo de acordo com o que ele tem, exemplo:
-Se eu tenho um arquivo "AAAAAA", eu posso represtalo usando  GA, que é uma redução de mais de 60% no disco.
+Se eu tenho um arquivo "AAAAAA", eu posso representalo usando  6A, que é uma redução de mais de 60% no disco.
 
 
 # SQL Server
