@@ -85,8 +85,10 @@ A memória virtual é um espaço reservado na memória secundaria para guardar p
 - Os processo que são passados para a memória secundaria, são aqueles que não são tão utilizados
 
 
+#### Paginação de memória
+É uma estrutura de dados usada pelo sistema de memória virtual que grava o mapeamento esta a memória primaria e a memória secundaria, essas informações ficam na propria memória secundaria
 
-#### Paginação de Memórias
+
 
 
 
