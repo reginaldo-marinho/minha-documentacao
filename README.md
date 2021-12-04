@@ -162,7 +162,9 @@ Quando penso em refatoração, eu penso na palavra "TEMPO", como no meu trabalho
 fico P da vida no modo  em que aquelas rotinas são contruidas, é If, Else, for, variavel global, nomes reduzidos para todos os lados, sem contar nas funções que chegam as ter mais de 1000, 2000 ou 3000. É uma loucura entender aqueles processos, o tempo perdido para enteder em quais locais preciso fazer tais customizações é muito grande.
 Se lá existisse um pouco dos principios de refatorações, grande parte do tempo que era perdido para entender o codigo poderia ser usado para aprender algo mais importante ou até mesmo refatorar o que já existe, seria bom se esse sistema não tivesse regras relacionadas a codigo "standard".
 O legal de ter essa visão sobre o codigo é quando começo a olhar para esse codigo e pensar em como eu poderia melhora-lo usando tecnicas desse livro. Como esse trecho é dedicado a minha visão sobre o que vou aprendendo, nada mais justo que eu citar algun pontos importantes que fizeram grande diferença no meu processo de aprendizagem:
-
-No capítulo 3, Martin fowlor da inico a sessão de " Maus Cheiros"
+### Maus Cheiros
+No capítulo 3, Martin fowler da inico a sessão de " Maus Cheiros"
 É aqui que começamos a ver com outros olhos códigos fontes, nessa capítulo ele explicada sobre: Nomes Misterios, Funções Longas, excesso de parâmetros,duplicação de código, dados globais, dados mutáveis, obsessão por primitivos,switches repitidos, laços ...
-Bom, existe muitos casos que podem ser considerados maus cheiros, sair por aí querendo apontar o que é e o que não é mal cheiro não é uma boa ideia para minha performance, o importante para mim é saber que um aquele recurso existe e que quando eu precisar, buscarei no livro ou em qualquer outra documentação
+Bom, existe muitos casos que podem ser considerados maus cheiros, sair por aí querendo apontar o que é e o que não é mal cheiro não é uma boa ideia para minha performance, o importante para mim é saber que um aquele recurso existe e que quando eu precisar, buscarei no livro ou em qualquer outra documentação.
+### Testes Unitarios
+Os testes são apresentados no capítulo quatro, aqui fowler fala sobre a importância de um código autotestavel, durante a leitura é afirmado que quando fazemos testes unitários, reduzimos a porcentagem de chance de um determinado processo resultar em erros.
