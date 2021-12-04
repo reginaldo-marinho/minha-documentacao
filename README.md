@@ -168,3 +168,8 @@ No capítulo 3, Martin fowler da inico a sessão de " Maus Cheiros"
 Bom, existe muitos casos que podem ser considerados maus cheiros, sair por aí querendo apontar o que é e o que não é mal cheiro não é uma boa ideia para minha performance, o importante para mim é saber que um aquele recurso existe e que quando eu precisar, buscarei no livro ou em qualquer outra documentação.
 ### Testes Unitarios
 Os testes são apresentados no capítulo quatro, aqui fowler fala sobre a importância de um código autotestavel, durante a leitura é afirmado que quando fazemos testes unitários, reduzimos a porcentagem de chance de um determinado processo resultar em erros.
+### Escolha da refatoração
+Bom, a partir daqui é só exemplo prático de como implementar melhores práticas de refatoração, cada tipo de refatoração tem um nome específico e um jeito especial para resolver um problema, os mais comuns que uso no meu dia-a-dia são:
+- extrair função
+> Motivo: Quando um determinado trecho que código representa um nome ou algum tipo de procedimento, eu consigo extrai-lo para uma função com o nome que representa aquele código.
+Durante a criação: dessa função eu posso usar outras boas práticas de refatoração, como: substituir variável por objeto, dar um nome significativo para a função, internizar variável, extrair variável 
