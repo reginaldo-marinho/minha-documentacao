@@ -184,4 +184,15 @@ Os testes são apresentados no capítulo quatro, aqui fowler fala sobre a import
 Bom, a partir daqui é só exemplo prático de como implementar melhores práticas de refatoração, cada tipo de refatoração tem um nome específico e um jeito especial para resolver um problema, os mais comuns que uso no meu dia-a-dia são:
 - extrair função
 > Motivo: Quando um determinado trecho que código representa um nome ou algum tipo de procedimento, eu consigo extrai-lo para uma função com o nome que representa aquele código.
-Durante a criação: dessa função eu posso usar outras boas práticas de refatoração, como: substituir variável por objeto, dar um nome significativo para a função, internizar variável, extrair variável 
+Durante a criação: dessa função eu posso usar outras boas práticas de refatoração, como: substituir variável por objeto, dar um nome significativo para a função, internizar variável, extrair variável
+
+
+### Sistemas Operacionais
+Bom, como meu objetivo é criar as melhores aplicações nos quesitos de velocidade e performace, então preciso ter muito frizado em minha cabeça pontos importantes sobre gerenciamento de tarefas e gerenciamento de memória. Sendo assim, irei descrever um pouco sobre cada um deles.
+
+#### Gerenciamento de tarefas
+
+#### Gerenciamento de Memoria (RAM)
+
+
+#### Gerenciamento de Memória
