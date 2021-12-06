@@ -193,6 +193,8 @@ Bom, como meu objetivo é criar as melhores aplicações nos quesitos de velocid
 #### Gerenciamento de tarefas
 
 #### Gerenciamento de Memoria (RAM)
-
-
-#### Gerenciamento de Memória
+- A menor unidade de uma memória RAM é de 1 byte (8 bits) 2x2x2x2x2x2x2x2 => 256 combinações binarias
+- O gerenciamento de memoria é feita pela MMU (Memory managment unit) => Unidade de Gerenciamento de Memoria
+- Cada endereço de memoria representa um byte
+##### A memória Virtual
+Criada para ajudar a memoria RAM(Fisica)
