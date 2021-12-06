@@ -196,5 +196,14 @@ Bom, como meu objetivo é criar as melhores aplicações nos quesitos de velocid
 - A menor unidade de uma memória RAM é de 1 byte (8 bits) 2x2x2x2x2x2x2x2 => 256 combinações binarias
 - O gerenciamento de memoria é feita pela MMU (Memory managment unit) => Unidade de Gerenciamento de Memoria
 - Cada endereço de memoria representa um byte
+- A execução de programas diretamente na memoria principal é pouco usado
+- Hoje em  dia é são usados espaços de endereçamento e memoria virtual (Swapp out >> Memoria RAM => Memoria Secundaria. Swapp in >> Memoria Secundaria => Memoria RAM)
+##### Espaço de Endereçamento
+Interessante entender o espaço de endereçamento de um memoria RAM, pois, é com base na quantidade de barramentos dados fixos que um processador tem que se define o tamanho maximo de memoria que um processador consegue endereçar. 
+Vamos para  o exemplo pratico.
+> Um processador com 32 vias de endereço que permite acessar 2*32 (4Gbbytes) de memoria
+
+
+ 
 ##### A memória Virtual
 Criada para ajudar a memoria RAM(Fisica)
