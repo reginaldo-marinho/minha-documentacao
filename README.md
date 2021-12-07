@@ -80,19 +80,6 @@ Na linguagem c# seu codígo é conhecido como codigo gerenciavel, isso porque o 
 
 Nesse link existe um ótimo artigo explicando sobre a [diferença ente memória stack e memória heap](https://www.c-sharpcorner.com/article/stack-vs-heap-memory-c-sharp/) 
 
-#### Memória Virtual
-A memória virtual é um espaço reservado na memória secundaria para guardar processos da memória primaria, desse modo, a memória primaria não fica tão sobrecarregada.
-- Os processo que são passados para a memória secundaria, são aqueles que não são tão utilizados
-
-
-#### Paginação de memória
-É uma estrutura de dados usada pelo sistema de memória virtual que grava o mapeamento esta a memória primaria e a memória secundaria, essas informações ficam na propria memória secundaria
-
-
-
-
-
-
 # Arvores Binarias
 ### Resumão
 Arvores binarias é um conjunto de dados que são inseridos de forma organizada, de modo que quando os mesmos são obtidos, o tempo de processamento diminui, ja que o dado desejado é encontrado de uma forma mais rapida.
