@@ -190,10 +190,8 @@ Interessante entender o espaço de endereçamento de um memoria RAM, pois, é co
 > Um processador com 32 vias de endereço que permite acessar 2*32 (4Gbbytes) de memoria 
 ##### A memória Virtual
 Ocultando a complexidade da memoria fisica, a memoria virtual simplifica a alocação de memoria pelos processos, transendo junto a ela dois tipos de endereços de memoria, sendo eles:
- - Endereço Fisico 
- Aqui são os endereços  que de fato existem na memoria RAM (Verdadeiro), disponiveis somente aqueles que não estão sendo usando por processos.
- - Endereço Lógico
- Usados pelos processos e sistema operacional, eles são definidos com base no espaço de endereçamento do processador.
+ - Endereço Fisico: Aqui são os endereços  que de fato existem na memoria RAM (Verdadeiro), disponiveis somente aqueles que não estão sendo usando por processos.
+ - Endereço Lógico: Usados pelos processos e sistema operacional, eles são definidos com base no espaço de endereçamento do processador.
  
  
  
