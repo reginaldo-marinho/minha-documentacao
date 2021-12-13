@@ -15,7 +15,7 @@ sobre o meu desempenho profissional.
  - [x] Funções
  - [x] Eventos
  - [x] Módulos
- - [ ] Expressões Regulares 
+ - [ ]  
 3. Objetos
  - O básico dos objetos
  - Protótipos
@@ -197,6 +197,14 @@ Ocultando a complexidade da memoria fisica, a memoria virtual simplifica a aloca
  - Endereço Lógico: Usados pelos processos e sistema operacional, eles são definidos com base no espaço de endereçamento do processador.
  
  
+ 
+### Expressões Regulares
+#### o que é?
+É uma definição para que eu encontre padrões em um texto
+#### Quando usar?
+Usamos quando precisamos buscar ou validar um padrão dentro de um texto
+
+
  
  
  
