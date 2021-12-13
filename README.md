@@ -10,6 +10,7 @@ sobre o meu desempenho profissional.
  - [x] Arrays
 2.  Estrutura
  - [x] Condicionais
+ - [x] tratamento de erros
  - [x] Laços de Repetição
  - [x] Funções
  - [x] Eventos
