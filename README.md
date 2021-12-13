@@ -14,6 +14,7 @@ sobre o meu desempenho profissional.
  - [x] Laços de Repetição
  - [x] Funções
  - [x] Eventos
+ - [x] Módulos 
 3. Objetos
  - O básico dos objetos
  - Protótipos
