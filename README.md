@@ -7,14 +7,15 @@ sobre o meu desempenho profissional.
  - [x] Variáveis
  - [x] Números e operadores
  - [x] Textos
- - [x] Arrays
+ - [x] Arrays 
 2.  Estrutura
  - [x] Condicionais
  - [x] tratamento de erros
  - [x] Laços de Repetição
  - [x] Funções
  - [x] Eventos
- - [x] Módulos 
+ - [x] Módulos
+ - [ ] Expressões Regulares 
 3. Objetos
  - O básico dos objetos
  - Protótipos
