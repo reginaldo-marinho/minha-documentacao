@@ -204,7 +204,12 @@ Ocultando a complexidade da memoria fisica, a memoria virtual simplifica a aloca
 #### Quando usar?
 Usamos quando precisamos buscar ou validar um padrão dentro de um texto
 
+### Arquitetura
+#### Imutábilidade de variáveis
 
- 
+#### SOLID
+
+
+
  
  
